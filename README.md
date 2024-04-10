@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vinic-i
-- 👀 I’m interested in games and frontend
 - 🌱 I’m currently learning how to make games for vr
 - 📫 How to reach me 08vinic@gmail.com
 
